@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Jon King Website",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -58,14 +58,15 @@
     "uniqCompNum": 19,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/gtlogo2-128x128.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Jonathan King",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
