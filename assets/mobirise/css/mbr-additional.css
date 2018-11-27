@@ -1953,3 +1953,15 @@ body {
   display: block;
   text-align: center;
 }
+.cid-raD6gPaJEy {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #cccccc, #f9f9f9);
+}
+.cid-raD6gPaJEy .mbr-iconfont-social {
+  font-size: 32px;
+  color: #149dcc;
+}
+.cid-raD6gPaJEy .social-list a:focus {
+  text-decoration: none;
+}
